@@ -1,4 +1,4 @@
-[zh_CN](README_zh_cn.md)
+[简体中文版 zh_CN](README_zh_cn.md)
 # System Analysis and Design Project
 This is the SAD course project in Tongji University SAD, 2022
 
@@ -14,3 +14,6 @@ For me, in addition to understanding some concepts and methods of system analysi
 
 # Thanks
 The successful completion of this semester’s project is inseparable from the project idea provided by our treasure, and at the same time, it is also inseparable from the capable team members, who can actively participate in online discussions, complete their respective parts carefully, and cooperate in time if there are changes. Thank you all here!
+
+# Note
+In order to protect the personal information of each team member, the document was re-edited before uploading, and all the places involving personal student numbers, names and other information were replaced with their respective GitHub account hyperlinks
