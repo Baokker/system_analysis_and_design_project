@@ -13,6 +13,9 @@ This is the SAD course project in Tongji University SAD, 2022
 
 # 鸣谢
 本学期项目的顺利完成，离不开我宝提供的项目idea，同时也离不开各位得力的组员，可以积极地参与线上讨论，认真完成各自的part，有更改也会及时配合。在此感谢各位！
+当然，前人在GitHub上的SAD文档，同样也给了我们许多参考和启发，在此附上他们的链接，同时表示感谢：
+- https://github.com/wangwangwang23333/System-Analysis-Design
+- https://github.com/lif314/Tongji-2021-System_Analysis_Design-Homework
 
 # 注
 为保护各位小组成员个人信息，在上传前重新编辑了文档，将所有涉及个人学号姓名等信息的地方更换成了各自的GitHub账号超链接
